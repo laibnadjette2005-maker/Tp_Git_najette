@@ -1,0 +1,5 @@
+Git est un système de contrôle de version qui permet de suivre les modifications d’un projet.
+Il est utile pour conserver l’historique des fichiers et revenir à une version précédente.
+GitHub permet de stocker les projets Git en ligne et de les partager avec d’autres utilisateurs.
+Dans ce TP, j’ai appris à créer un dépôt GitHub et à le cloner dans Google Colab.
+J’ai également appris à ajouter des fichiers, effectuer un commit et envoyer les modifications vers GitHub.
